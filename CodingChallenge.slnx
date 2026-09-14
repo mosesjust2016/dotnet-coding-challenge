@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CodingChallenge.Api/CodingChallenge.Api.csproj" />
+  <Project Path="CodingChallenge.Data/CodingChallenge.Data.csproj" />
+  <Project Path="CodingChallenge.Tests/CodingChallenge.Tests.csproj" />
+</Solution>
