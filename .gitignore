@@ -4,6 +4,9 @@ project.lock.json
 .DS_Store
 *.pyc
 nupkg/
+*.db
+*.db-shm
+*.db-wal
 
 # Visual Studio Code
 .vscode/
